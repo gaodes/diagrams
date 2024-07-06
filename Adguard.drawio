@@ -1,0 +1,13 @@
+<mxfile host="app.diagrams.net" modified="2024-07-06T23:07:40.730Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="gketQoKqc0ECaITnAZ09" version="24.6.4" type="github">
+  <diagram name="Page-1" id="ZotFidcrC0887X4TikAJ">
+    <mxGraphModel dx="1178" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FNr-MJow4YJf6sKDLLTJ-1" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCI+PHBhdGggZD0iTTMzLjYtMTJDMTkuNC0xMiAyLjItOC42LTEyLTEuM2MwIDE1LjktLjIgNTUuNyA0NS42IDgyLjhDNzkuNSA1NC40IDc5LjMgMTQuNyA3OS4zLTEuMyA2NS4xLTguNiA0Ny45LTEyIDMzLjYtMTJ6IiBzdHlsZT0iZmlsbDojNjhiYzcxIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg2LjcyNSA2LjE2KSBzY2FsZSguNTEzMzcpIi8+PHBhdGggZD0iTTMzLjYgODEuNUMtMTIuMiA1NC40LTEyIDE0LjctMTItMS4zIDIuMS04LjYgMTkuMy0xMiAzMy42LTEydjkzLjV6IiBzdHlsZT0iZmlsbDojNjdiMjc5IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg2LjcyNSA2LjE2KSBzY2FsZSguNTEzMzcpIi8+PHBhdGggZD0ibTMyIDUwLjQgMjcuNi0zNy4yYy0yLTEuNi0zLjgtLjUtNC44LjRsLTIzIDIzLjktOC43LTEwLjRDMTguOSAyMi40IDEzLjMgMjYgMTIgMjdsMjAgMjMuNCIgc3R5bGU9ImZpbGw6I2ZmZiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNi43MjUgNi4xNikgc2NhbGUoLjUxMzM3KSIvPjwvc3ZnPg==;" vertex="1" parent="1">
+          <mxGeometry x="210" y="130" width="120" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
